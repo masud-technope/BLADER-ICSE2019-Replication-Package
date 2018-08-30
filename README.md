@@ -103,7 +103,7 @@ Q.1: How to install the BLADER tool?
 
 - Download all items from GitHub using git clone command, and keep in ```/home``` folder. **The exact URL will be provided later if accepted**.
 - Unzip all zip files, and make sure that they are in the home directory. For example, ecf in ```Corpus/class.zip``` should be ```/home/Corpus/class```.
-- Download the FastText models from Google Drive (Optional). It will be needed if you are testing with the bug reports beyond these six systems.
+- Download the *FastText* models from [**Google Drive**](https://goo.gl/unZG9K) (Optional). It will be needed if you are testing with the bug reports beyond these six systems.
 - Run the tool from within the home directory.
 
 
@@ -177,3 +177,7 @@ This commands shows query improvement, query worsening and query preserving stat
 
 
 -------------------------------------------------------------------------------------
+
+BLADER Running
+---------------------------------------------------------------
+![BLADER-Running](http://anonymous.4open.science/repository/f6fe4aa6-4901-4302-8d5e-5241b7a0f64a/Screenshot/BLADER-Running.png)
