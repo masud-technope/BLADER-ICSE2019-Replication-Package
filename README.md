@@ -91,9 +91,9 @@ Available Operations
 
 **Required parameters for the operations**
 
--```task```: expects a task to be performed
--```queryFileKey```: a random alpha-numeric key to be used for storing queries and results.
--```topk```: expects the number of top results to be analyzed.
+- ```task```: expects a task to be performed
+- ```queryFileKey```: a random alpha-numeric key to be used for storing queries and results.
+- ```topk```: expects the number of top results to be analyzed.
 
 
 Q.1: How to install the BLADER tool?
@@ -127,7 +127,7 @@ Q.3: How to get Top-K bug localization performances?
 java -jar blader-runner.jar -task getBLResult -topk 10 -queryFileKey blader-replication-test
 ```
 
-The above command collects Top-10 results and reports Hit@10, MRR@10, MAP@10 for the queries. 
+The above command collects Top-10 results, and calculates **Hit@10, MRR@10, MAP@10** for the queries. 
 If you want to extract all the results rather than Top-K only, you can set ```-topk``` to a big number, 100000 to get all the results. 
 This provides the ranking of all source code files for each given query.
 
