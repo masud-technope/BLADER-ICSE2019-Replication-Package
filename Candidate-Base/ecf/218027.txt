@@ -1,0 +1,15 @@
+Bug
+Discovery
+jSLP
+Provider
+doesn
+handle
+scope
+correctly
+Discovered
+services
+don
+scope
+set
+correctly
+SLP

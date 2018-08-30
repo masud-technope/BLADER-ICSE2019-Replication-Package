@@ -1,0 +1,14 @@
+Bug
+search
+inline
+filters
+menu
+filters
+menu
+search
+submenu
+couple
+filters
+inline
+layout
+option

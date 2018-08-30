@@ -1,0 +1,17 @@
+Bug
+PDE
+Tools
+Update
+Classpath
+deletes
+Access
+Rules
+Eclipse
+Update
+Classpath
+Plugin
+defined
+access
+rules
+removed
+Ben

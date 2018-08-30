@@ -1,0 +1,10 @@
+Patch
+Generics
+warnings
+rawtypes
+Created
+attachment
+details
+raw
+type
+warnings

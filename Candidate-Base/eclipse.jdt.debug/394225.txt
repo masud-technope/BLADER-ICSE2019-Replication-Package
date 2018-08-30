@@ -1,0 +1,8 @@
+Bug
+Display
+evaluates
+incorrectly
+Evaluates
+display
+window
+fail

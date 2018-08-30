@@ -1,0 +1,15 @@
+Bug
+compiler
+Consolidate
+type
+inference
+bug
+closed
+bug
+server
+umbrella
+remaining
+issues
+relating
+type
+inference

@@ -1,0 +1,11 @@
+Bug
+Streams
+left
+open
+exception
+locations
+stream
+left
+open
+exception
+occurs

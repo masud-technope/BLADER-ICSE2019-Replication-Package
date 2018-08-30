@@ -1,0 +1,14 @@
+Bug
+Changing
+pde
+core
+major
+version
+qualifier
+detected
+error
+fixed
+detect
+upgrade
+major
+version

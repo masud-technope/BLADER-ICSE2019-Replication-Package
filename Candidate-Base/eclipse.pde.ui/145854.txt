@@ -1,0 +1,10 @@
+Bug
+Create
+template
+OSGi
+service
+bundle
+template
+Equinox
+OSGi
+service

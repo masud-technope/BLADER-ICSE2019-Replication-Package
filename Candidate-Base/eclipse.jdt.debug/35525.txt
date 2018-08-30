@@ -1,0 +1,15 @@
+Bug
+unable
+step
+suspended
+breakpoint
+evaluation
+suspended
+breakpoint
+evaluation
+scrapbook
+display
+view
+step
+actions
+disabled

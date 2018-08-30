@@ -1,0 +1,7 @@
+Bug
+Ctrl
+Filters
+persistent
+set
+view
+menu

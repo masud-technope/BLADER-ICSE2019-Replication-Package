@@ -1,0 +1,16 @@
+Bug
+Discovery
+Composite
+Instantiate
+nested
+bundles
+OSGi
+getServices
+Lazily
+instantiate
+nested
+discovery
+bundles
+resource
+handling
+Services

@@ -1,0 +1,11 @@
+Bug
+rulers
+number
+overview
+ruler
+number
+hovering
+Overview
+ruler
+location
+annotation

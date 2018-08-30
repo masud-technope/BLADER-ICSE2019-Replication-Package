@@ -1,0 +1,14 @@
+Bug
+IRC
+kick
+ban
+unban
+deop
+commands
+parse
+error
+attached
+test
+IRC
+version
+HEAD

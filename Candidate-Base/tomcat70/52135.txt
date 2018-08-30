@@ -1,0 +1,17 @@
+Global
+error
+handled
+Servlet
+global
+error
+error
+location
+error
+jsp
+location
+error
+handled
+Tomcat
+Glassfish
+works
+fine

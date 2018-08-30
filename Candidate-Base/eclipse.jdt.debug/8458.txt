@@ -1,0 +1,5 @@
+Bug
+Inspect
+action
+variables
+view

@@ -1,0 +1,12 @@
+Bug
+Support
+launch
+variables
+nice
+launch
+configuration
+replaced
+JRE
+installed
+JRE
+preferences

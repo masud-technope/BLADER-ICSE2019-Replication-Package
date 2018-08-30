@@ -1,0 +1,9 @@
+Bug
+compiler
+problems
+generified
+IAdaptable
+getAdapter
+bug
+comment
+Adapter

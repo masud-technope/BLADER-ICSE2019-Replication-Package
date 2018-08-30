@@ -1,0 +1,16 @@
+Bug
+Calculate
+button
+enabled
+initial
+add
+Export
+Build
+time
+user
+adds
+exported
+Calculate
+button
+remains
+disabled

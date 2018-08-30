@@ -1,0 +1,7 @@
+Bug
+copyright
+tool
+org
+eclipse
+pde
+tests

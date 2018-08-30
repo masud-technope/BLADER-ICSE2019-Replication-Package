@@ -1,0 +1,16 @@
+Bug
+quick
+duplicate
+exception
+add
+Eclipse
+SDK
+Version
+Build
+Add
+clause
+surrounding
+Quick
+generates
+code
+error

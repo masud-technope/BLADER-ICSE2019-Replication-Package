@@ -1,0 +1,13 @@
+Bug
+registry
+view
+OSGi
+service
+plug
+registry
+view
+nice
+OSGi
+services
+published
+consumed

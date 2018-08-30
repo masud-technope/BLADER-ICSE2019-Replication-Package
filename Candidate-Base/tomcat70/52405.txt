@@ -1,0 +1,16 @@
+Update
+Servlet
+Rev
+list
+http
+jcp
+org
+aboutJava
+communityprocess
+maintenance
+jsr
+servlet
+reva
+html
+checked
+Java

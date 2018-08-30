@@ -1,0 +1,15 @@
+Bug
+compare
+wrong
+caret
+side
+HEAD
+regression
+build
+enhanced
+compare
+left
+side
+strange
+prominent
+carets

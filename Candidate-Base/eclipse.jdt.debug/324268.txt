@@ -1,0 +1,16 @@
+Bug
+Open
+Clipboard
+action
+report
+progress
+FUP
+bug
+opening
+type
+search
+time
+busy
+cursor
+progress
+indicator

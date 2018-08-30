@@ -1,0 +1,11 @@
+Bug
+render
+Rendering
+Lambda
+types
+isLambda
+APIs
+Adapt
+APIs
+bug
+Lambda

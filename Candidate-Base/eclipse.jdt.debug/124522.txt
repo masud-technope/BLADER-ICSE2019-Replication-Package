@@ -1,0 +1,10 @@
+Bug
+Display
+View
+Undo
+display
+view
+debug
+perspective
+undo
+functionality

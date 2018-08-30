@@ -1,0 +1,17 @@
+Bug
+preferences
+Restore
+Defaults
+duplicates
+list
+entries
+Restore
+Defaults
+Java
+Editor
+Appearance
+duplicates
+Appearance
+color
+options
+entries

@@ -1,0 +1,16 @@
+Bug
+templates
+template
+context
+names
+lowercase
+template
+context
+names
+lowercase
+java
+Java
+javadoc
+Javadoc
+swt
+SWT

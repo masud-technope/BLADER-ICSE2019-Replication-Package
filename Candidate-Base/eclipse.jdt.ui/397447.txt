@@ -1,0 +1,12 @@
+Bug
+hovering
+Code
+polishing
+Javadoc
+hovering
+feature
+minor
+miscellaneous
+code
+hovering
+feature

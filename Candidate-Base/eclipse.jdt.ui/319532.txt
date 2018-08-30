@@ -1,0 +1,16 @@
+Bug
+preference
+typing
+disable
+smart
+auto
+indent
+disable
+smart
+auto
+indent
+hitting
+alignment
+indent
+happen
+bug

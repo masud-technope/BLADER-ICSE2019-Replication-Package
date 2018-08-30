@@ -1,0 +1,16 @@
+Bug
+Discovery
+JMDNS
+parsing
+problem
+service
+type
+defines
+naming
+authority
+parser
+code
+stumbles
+naming
+authority
+set

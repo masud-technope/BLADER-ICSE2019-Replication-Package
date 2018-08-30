@@ -1,0 +1,14 @@
+Bug
+TCK
+RSA
+exports
+properties
+Dotted
+service
+properties
+someProperty
+foo
+intent
+exported
+RSA
+Property

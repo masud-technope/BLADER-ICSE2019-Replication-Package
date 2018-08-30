@@ -1,0 +1,17 @@
+Bug
+api
+IScanner
+Scanner
+linePtr
+find
+good
+Scanner
+linePtr
+funtionality
+api
+scanner
+read
+access
+field
+Ptr
+Ptr

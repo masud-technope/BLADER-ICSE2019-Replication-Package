@@ -1,0 +1,13 @@
+Bug
+JDK
+set
+Eclipse
+MacOS
+Eclipse
+create
+entry
+JRE
+segment
+JDK
+location
+Mac
