@@ -1,0 +1,13 @@
+Bug
+NLS
+tool
+values
+displayed
+correctly
+values
+displayed
+happen
+windows
+displayed
+escaped
+notation

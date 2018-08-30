@@ -1,0 +1,6 @@
+Bug
+templates
+annotations
+OSGi
+PDE
+templates

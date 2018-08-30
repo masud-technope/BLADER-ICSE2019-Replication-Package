@@ -1,0 +1,17 @@
+Bug
+Discovery
+Reduce
+BREE
+Java
+discovery
+requires
+Java
+generated
+EMF
+code
+java
+util
+concurrent
+dependency
+reduced
+Java

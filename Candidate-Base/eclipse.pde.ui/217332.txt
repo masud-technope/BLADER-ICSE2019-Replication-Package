@@ -1,0 +1,17 @@
+Bug
+reference
+URL
+dealing
+simple
+configurator
+working
+correctly
+set
+osgi
+bundles
+include
+simple
+configurator
+don
+reference
+issues

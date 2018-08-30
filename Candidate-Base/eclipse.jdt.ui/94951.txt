@@ -1,0 +1,12 @@
+Bug
+implementation
+Compiler
+error
+prevents
+development
+Build
+JDT
+Text
+counterpart
+bug
+steps

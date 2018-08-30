@@ -1,0 +1,16 @@
+Bug
+formatter
+Indent
+Empty
+lines
+option
+doesn
+work
+empty
+blocks
+Mars
+create
+body
+consisting
+empty
+indented

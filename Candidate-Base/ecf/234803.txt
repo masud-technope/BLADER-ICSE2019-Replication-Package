@@ -1,0 +1,14 @@
+Bug
+Discovery
+jSLP
+path
+supported
+ECF
+discovery
+correctly
+pass
+URI
+path
+jSLP
+SLP
+SLP

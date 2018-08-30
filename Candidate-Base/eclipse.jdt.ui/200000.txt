@@ -1,0 +1,11 @@
+Bug
+templates
+Provide
+templates
+SWT
+provide
+template
+SWT
+snippets
+Button
+Composite

@@ -1,0 +1,15 @@
+Bug
+Open
+Breakpoint
+Properties
+dialog
+key
+stroke
+nice
+Breakpoint
+Properties
+action
+bound
+command
+key
+stroke

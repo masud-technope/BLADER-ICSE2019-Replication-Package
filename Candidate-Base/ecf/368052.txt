@@ -1,0 +1,17 @@
+Bug
+Chats
+view
+intent
+clear
+chats
+view
+opened
+hint
+empty
+view
+provide
+simple
+text
+body
+view
+intent

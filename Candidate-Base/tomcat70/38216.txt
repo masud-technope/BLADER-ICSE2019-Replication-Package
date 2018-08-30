@@ -1,0 +1,15 @@
+Extend
+Jmxproxy
+call
+MBean
+Operations
+query
+Beans
+set
+Attributes
+good
+operation
+MBean
+called
+Jmxproxy
+Servlet

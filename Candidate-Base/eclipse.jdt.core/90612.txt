@@ -1,0 +1,14 @@
+Bug
+Forbidden
+types
+Code
+Assist
+Types
+accessible
+forbidden
+project
+classpath
+choices
+code
+assist
+popup

@@ -1,0 +1,11 @@
+Bug
+minor
+menu
+order
+inconsistency
+editor
+inspect
+display
+display
+view
+NOTES

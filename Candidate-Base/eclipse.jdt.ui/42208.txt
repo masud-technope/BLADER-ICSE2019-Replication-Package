@@ -1,0 +1,12 @@
+Bug
+Source
+hover
+affordance
+text
+black
+Source
+hover
+affordance
+text
+black
+gray

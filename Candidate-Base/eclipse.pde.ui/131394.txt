@@ -1,0 +1,14 @@
+Bug
+javacVerbose
+javac
+ant
+task
+verbose
+option
+supposed
+bug
+set
+bug
+details
+javac
+Verbose

@@ -1,0 +1,15 @@
+Bug
+logview
+search
+field
+pre
+selected
+Error
+Log
+view
+search
+field
+pre
+selected
+preferences
+dialog

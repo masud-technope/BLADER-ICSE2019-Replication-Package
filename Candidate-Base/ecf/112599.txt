@@ -1,0 +1,15 @@
+Bug
+XMPP
+Room
+subject
+updated
+xmpp
+chat
+updated
+remotely
+xmpp
+server
+title
+room
+updated
+dynamically

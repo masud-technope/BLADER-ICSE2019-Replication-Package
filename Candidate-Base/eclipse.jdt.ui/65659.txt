@@ -1,0 +1,16 @@
+Bug
+syntax
+highlighting
+Constructor
+method
+syntax
+highlighting
+inconsistent
+Java
+constructor
+declarations
+highlighted
+method
+calls
+method
+declarations

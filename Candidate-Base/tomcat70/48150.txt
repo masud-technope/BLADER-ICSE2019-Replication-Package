@@ -1,0 +1,15 @@
+misspellings
+javax
+servlet
+Created
+attachment
+details
+svn
+patch
+file
+javax
+servlet
+atached
+svn
+patch
+file

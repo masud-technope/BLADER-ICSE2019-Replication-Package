@@ -1,0 +1,17 @@
+Bug
+Discovery
+jSLP
+Execute
+OSGi
+jUnit
+tests
+separately
+collect
+Execute
+OSGi
+jUnit
+tests
+separately
+SLP
+Unit
+Unit

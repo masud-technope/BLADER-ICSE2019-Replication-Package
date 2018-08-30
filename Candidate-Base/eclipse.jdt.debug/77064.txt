@@ -1,0 +1,13 @@
+Bug
+clear
+work
+stack
+trace
+console
+Pressing
+clear
+button
+clear
+stack
+trace
+console

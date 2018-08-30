@@ -1,0 +1,14 @@
+Bug
+Patch
+jface
+text
+deprecation
+Platform
+Text
+deprecated
+attached
+patch
+fixes
+deprecation
+warnings
+caused

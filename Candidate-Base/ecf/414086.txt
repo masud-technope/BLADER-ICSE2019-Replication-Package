@@ -1,0 +1,14 @@
+Bug
+Add
+support
+Servlet
+based
+remote
+services
+support
+code
+creating
+servlets
+handle
+remoteservice
+calls

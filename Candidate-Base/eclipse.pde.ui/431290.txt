@@ -1,0 +1,11 @@
+Bug
+Properly
+extract
+invokedynamic
+instructions
+implement
+API
+properly
+extract
+invokedynamic
+instructions

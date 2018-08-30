@@ -1,0 +1,12 @@
+Bug
+Organize
+Favorites
+dialog
+remember
+size
+time
+open
+dialog
+resize
+persist
+resize
