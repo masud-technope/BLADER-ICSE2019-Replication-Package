@@ -177,7 +177,3 @@ This commands shows query improvement, query worsening and query preserving stat
 
 
 -------------------------------------------------------------------------------------
-
-BLADER Running
----------------------------------------------------------------
-![BLADER-Running](https://goo.gl/hhmVhu)
