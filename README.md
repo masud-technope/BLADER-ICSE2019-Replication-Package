@@ -1,8 +1,11 @@
 
 # Improving IR-Based Bug Localization with Effective Reformulation of Query using Crowdsourced Data Analytics
 
+
+Abstract
+------------------------------------------------------
 ```
-Abstract: Recent findings suggest that IR-based bug localization techniques do not perform well with low quality bug reports. Low quality bug reports do not contain any program entity names that could help find the encountered bugs or defects in the source code of a software system.
+Recent findings suggest that IR-based bug localization techniques do not perform well with low quality bug reports. Low quality bug reports do not contain any program entity names that could help find the encountered bugs or defects in the source code of a software system.
 Only a few studies attempt to address this issue using query reformulation. Unfortunately, they might fail for low quality bug reports (the poor queries) due to their high reliance on the report texts.
 In this paper, we propose a novel technique--BLADER--that localizes buggy entities from a software project using appropriate query reformulation and effective information retrieval. 
 First, we build a multi-dimensional semantic space with a vocabulary of about 660K words extracted from Stack Overflow using a popular unsupervised machine learning algorithm (e.g., FastText). 
