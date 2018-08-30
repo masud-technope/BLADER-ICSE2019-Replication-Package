@@ -180,4 +180,4 @@ This commands shows query improvement, query worsening and query preserving stat
 
 BLADER Running
 ---------------------------------------------------------------
-![BLADER-Running](http://anonymous.4open.science/repository/f6fe4aa6-4901-4302-8d5e-5241b7a0f64a/Screenshot/BLADER-Running.png)
+![BLADER-Running](https://goo.gl/hhmVhu)
