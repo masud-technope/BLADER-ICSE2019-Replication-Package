@@ -1,6 +1,7 @@
 
 # Improving IR-Based Bug Localization with Effective Reformulation of Query using Crowdsourced Data Analytics
 
+
 Abstract
 ------------------------------------------------------
 ```
@@ -119,7 +120,7 @@ Currently, the tool extracts raw bug reports from ```BugReport``` folder using t
 - BugID2	Reformulated-query
 - BugID3	Reformulated-query
 
-..........................................................
+......................................................................................................................
 
 Q.3: How to get Top-K bug localization performances?
 ----------------------------------------------------------------
@@ -151,8 +152,7 @@ Q.6: How to replicate the Query Effectiveness performances reported in the paper
 ```
 java -jar blader-runner.jar -task getReportedQEPerformance  -queryFileKey BLADER-best
 ```
-This commands shows query improvement, query worsening and query preserving statistics across all 6 subject systems 
-(as shown in Tables IV and VI).
+This commands shows query improvement, query worsening and query preserving statistics across all 6 subject systems (as shown in Tables IV and VI).
 
 
-----------------------------------------------------------------
+-------------------------------------------------------------------------------------

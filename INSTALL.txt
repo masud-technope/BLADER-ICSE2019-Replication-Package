@@ -1,0 +1,14 @@
+
+
+System Requirements
+=====================================
+- JDK 1.8 or upper version.
+- Cross-platform (tested on Windows 10)
+- Python 3.6 (if FastText models are accessed)
+
+
+Steps for Installation
+================================
+- Download all items from GitHub using "git clone" command.
+- Download Python models of FastText from Google Drive.
+- Execute "blader-runner.jar" by following "README"
