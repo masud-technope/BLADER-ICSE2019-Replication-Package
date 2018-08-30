@@ -95,6 +95,7 @@ Available Operations
 - ```task```: expects a task to be performed
 - ```queryFileKey```: a random alpha-numeric key to be used for storing queries and results.
 - ```topk```: expects the number of top results to be analyzed.
+- ```filterKey```: expects a filter key (e.g., TG, HQ) to be applied to the dataset.
 
 
 Q.1: How to install the BLADER tool?
@@ -140,17 +141,37 @@ java -jar blader-runner.jar -task getQEPerformance -queryFileKey blader-replicat
 ```
 This shows the statistics on improvement, worsening and preserving of the baseline queries.
 
-Q.5: How to replicate the bug localization performances reported in the paper?
+
+Q.5: How to replicate the bug localization performances of Baseline reported in the paper?
+--------------------------------------------------------------------------------------------
+```
+java -jar blader-runner.jar -task getBaselineBLPerformance  -topk 10 
+```
+This shows the Top-10 performance measures for the baseline
+
+Q.6: How to replicate the bug localization performances of BLADER reported in the paper?
 -------------------------------------------------------------------------------------
 ```
 java -jar blader-runner.jar -task getReportedBLPerformance  -topk 10 -queryFileKey BLADER-best
 ```
+**Without the Tangled commits**
+```
+java -jar blader-runner.jar -task getReportedBLPerformance  -topk 10 -queryFileKey BLADER-best -filterKey TG
+```
 Results from Table III and V can be replicated using the command above.
 
-Q.6: How to replicate the Query Effectiveness performances reported in the paper?
+Q.7: How to replicate the Query Effectiveness performances of BLADER reported in the paper?
 -------------------------------------------------------------------------------------
 ```
 java -jar blader-runner.jar -task getReportedQEPerformance  -queryFileKey BLADER-best
+```
+**Without the Tangled commits**
+```
+java -jar blader-runner.jar -task getReportedQEPerformance  -queryFileKey BLADER-best -filterKey TG
+```
+**With only low quality baseline queries**
+```
+java -jar blader-runner.jar -task getReportedQEPerformance  -queryFileKey BLADER-best -filterKey HQ
 ```
 This commands shows query improvement, query worsening and query preserving statistics across all 6 subject systems (as shown in Tables IV and VI).
 
