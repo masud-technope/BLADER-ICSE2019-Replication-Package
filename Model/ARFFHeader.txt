@@ -1,0 +1,9 @@
+@relation QueryDepth
+
+@attribute bugid string
+@attribute clstendency numeric
+@attribute minArea numeric
+@attribute qe numeric
+@attribute classlabel {'2','1','0'}
+
+@data
